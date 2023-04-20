@@ -1,7 +1,6 @@
-[image](https://user-images.githubusercontent.com/130373942/233502550-ea95dc18-89a9-486b-a7b2-7b6a1ef5b3a6.png)
+![image](https://user-images.githubusercontent.com/130373942/233502737-458b8143-7dd7-4c11-9d1b-bff9b1849563.png)
 UNLOCK FPS
 The Unlock FPS option will unlock the FPS of the client from 60 to your monitors refresh rate. This is extremely useful on 120/144/240hz monitors which easily could support higher framerates, and makes the game look much more clean. AutoLaunch/AutoAttach
-![Uploading image.png…]()
 AutoLaunch and AutoAttach are two separate options that serve similar purposes - they automate the attaching process for you.
 AutoAttach will simply attach Synapse X whenever you have the UI open. This is more simple & sometimes works better on certain machines, but the AutoLaunch option has massive benefits over the AutoAttach option which will be shown below.
 
