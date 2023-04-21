@@ -1,4 +1,6 @@
 ![image](https://user-images.githubusercontent.com/130373942/233502737-458b8143-7dd7-4c11-9d1b-bff9b1849563.png)
+
+
 UNLOCK FPS
 The Unlock FPS option will unlock the FPS of the client from 60 to your monitors refresh rate. This is extremely useful on 120/144/240hz monitors which easily could support higher framerates, and makes the game look much more clean. AutoLaunch/AutoAttach
 AutoLaunch and AutoAttach are two separate options that serve similar purposes - they automate the attaching process for you.
@@ -19,6 +21,7 @@ Some users prefer an older UI style that allows for greater theming & customizat
 This allows you to customize the theme used in the script editor. Pick one that suits you. Conclusion
 
 This concludes the general user guide for Synapse X. If you want to develop your own scripts, go to the development introduction. If not, we hope you enjoy Synapse X and all the features it has to offer!
+
 ![image](https://user-images.githubusercontent.com/130373942/233244451-19390a55-d8c7-40de-9f87-3f5aab86f883.png)
 
 
