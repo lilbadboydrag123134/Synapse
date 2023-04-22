@@ -24,14 +24,3 @@ This concludes the general user guide for Synapse X. If you want to develop your
 
 ![image](https://user-images.githubusercontent.com/130373942/233244451-19390a55-d8c7-40de-9f87-3f5aab86f883.png)
 
-
- 
-1.download here:https://mega.nz/folder/7FhSRQ4I#-UxuukJ9hfkNkCwbUR-Sqg
-
-2:check for any missing files
-
-your files should look like this:![image](https://user-images.githubusercontent.com/130373942/233718413-0c3b4abe-8197-4c2b-9314-162f4fd7a3fd.png)
-
-3:run the synapse-X-Launcher
-
-4:Go hack some lil kids LOL!
