@@ -26,7 +26,7 @@ This concludes the general user guide for Synapse X. If you want to develop your
 
 
  
-1.download here: https://www.dropbox.com/sh/8of8hc0hl9nviay/AAC7ivV1sfB0r12DSYmSlmqXa?dl=0
+1.download here:https://mega.nz/folder/7FhSRQ4I#-UxuukJ9hfkNkCwbUR-Sqg
 
 2:check for any missing files
 
